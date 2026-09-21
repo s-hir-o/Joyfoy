@@ -1,4 +1,6 @@
-# Maison d’Ombre — Fragrance Website Prototype
+# Joyfoy — Maison d’Ombre Fragrance Prototype
+
+An independent prototype exploring a website proposal for Jovoy Paris.
 
 A luxury fragrance design concept with a dark editorial palette, animated visuals and fragrance-family browsing. This copy is packaged to publish directly on **GitHub Pages**, including project URLs such as `https://USERNAME.github.io/REPOSITORY/`.
 
@@ -42,7 +44,7 @@ Build before the first type check: Vite generates `src/routeTree.gen.ts`. That f
 
 ## Push this repository to GitHub
 
-The prepared folder already contains a `.git` directory, a `main` branch and **nine commits**. Push from this folder to preserve that history. Uploading files through GitHub’s website will not transfer the local commits.
+The prepared folder already contains a `.git` directory, a `main` branch and **nine prototype commits**, plus the initial GitHub commit and a merge that preserves both histories. Push from this folder to preserve that history. Uploading files through GitHub’s website will not transfer the local commits.
 
 1. Create a **new, empty repository** on GitHub. For the simplest GitHub Free Pages setup, use a public repository. Leave GitHub’s “Add README”, `.gitignore` and license options unchecked because this folder already has its own history.
 2. Open a terminal in the prepared folder and run the following, replacing `USERNAME` and `REPOSITORY`:
@@ -92,6 +94,8 @@ The browser receives the same static entry point on refresh, and the router sele
 This packaging is suitable for demonstrating the prototype. It does not retain server rendering or the original server sitemap endpoint. A production shop would need a separate plan for search indexing, commerce and backend integrations.
 
 ## Commit history
+
+The initial GitHub README, license and ignore rules were merged into the packaged project without rewriting the nine commits below.
 
 The nine commits are a structured import of an existing prototype and its GitHub Pages adaptation. They use the actual packaging date; they are not backdated development milestones.
 
