@@ -2,7 +2,7 @@
 
 An independent prototype exploring a website proposal for Jovoy Paris.
 
-A luxury fragrance design concept with a dark editorial palette, animated visuals and fragrance-family browsing. This copy is packaged to publish directly on **GitHub Pages**, including project URLs such as `https://USERNAME.github.io/REPOSITORY/`.
+The website is available at https://s-hir-o.github.io/Joyfoy/
 
 ![Desktop preview of the fragrance prototype](docs/preview.png)
 
