@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.tanstack/
+.vite/
+src/routeTree.gen.ts
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+test-results/
+playwright-report/
